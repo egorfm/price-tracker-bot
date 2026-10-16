@@ -1,4 +1,4 @@
-# Price Tracker Bot
+# Price Tracker Bot 
 
 Telegram-бот, который следит за ценами на товары и пишет, когда цена падает.
 
